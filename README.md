@@ -1,2 +1,2 @@
 # FileUploadProject
-This is a sample Project which is created for Uploading and Donwloading Files in a Web page
+This is a sample HTML page which already has HTML details to include File upload functionality
